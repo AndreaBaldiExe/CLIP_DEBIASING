@@ -1,5 +1,6 @@
 # CLIP_DEBIASING
 *Dataset Avalailable* at: https://drive.google.com/drive/folders/1TblbHdSxLqcl1XzBISvNd3QhANB4AO4B?usp=drive_link
+
 *Context of interest*: Vision–Language Models (VLMs) such as CLIP have demonstrated impressive zero-shot recognition capabilities by jointly embedding images and natural-language prompts into a     shared semantic space. However, these models often inherit and amplify social biases present in their large-scale training data (e.g., correlations between gender, race, and professional roles). This project explores strategies to measure, analyze, and mitigate such biases while maintaining the strong zero-shot abilities that make VLMs so effective.
 
 *Problem Statement*: Empirical studies show that standard CLIP models associate certain demographic attributes (gender, race) disproportionately with specific professions or contexts.
